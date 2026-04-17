@@ -32,7 +32,7 @@ fastapi-project/
 
 ## 📸 Project Screenshots
 
-### Swagger UI (API Documentation)
+### (API Documentation)
 ![Swagger UI](screenshots/docs.png)<img width="1920" height="1080" alt="Screenshot 2026-04-18 002544" src="https://github.com/user-attachments/assets/15ba74a1-f1e2-4bae-8624-b241f14cb0ef" />
 
 
